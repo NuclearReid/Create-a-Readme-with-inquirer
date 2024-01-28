@@ -7,7 +7,7 @@
   Aftwer answering some prompts in the terminal, a profesional looking README will be generated using your answers
 
   ## Demo
-  ![Demo](./instructions/imgAssets/demo.gif)
+  ![Demo](./imgAssets/demo.gif)
   
   ## Table of Contents
   
