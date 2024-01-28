@@ -1,10 +1,13 @@
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-  # Readme Generator Demo
+  # README Generator
   
   ## Description
   
-  creates a readme after answering the prompts in terminal
+  Aftwer answering some prompts in the terminal, a profesional looking README will be generated using your answers
+
+  ## Demo
+  ![Demo](./instructions/imgAssets/demo.gif)
   
   ## Table of Contents
   
@@ -25,11 +28,11 @@
 
   ## Usage
   
-  run with the command npm index.js in terminal then answer the prompts
+  Used to quickly create a README.md for your current project
   
   ## Credits
   
-  microsoft copilot
+  Microsoft Copilot
   
   ## License
   
@@ -53,5 +56,5 @@ More information about the License being used
   
   ## Questions
     
-  If you have any questions, feel free to reach out to me at my [GitHub profile.](https://github.com/NuclearReid) or email me at reid.backcnmt@gmail.com
+  If you have any questions, feel free to reach out to me at my [GitHub profile.](https://github.com/NuclearReid) or email me at Reid.backcnmt@gmail.com
   
