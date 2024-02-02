@@ -6,6 +6,8 @@
   
   After answering some prompts in the terminal, a profesional looking README will be generated using your answers
 
+  [A video showing how the program works](https://drive.google.com/file/d/1EEzBhJsybTaDZDQpJGDJwkBJ-a_eBbaG/view)
+
   ## Demo
   ![Demo](./imgAssets/demo.gif)
   
