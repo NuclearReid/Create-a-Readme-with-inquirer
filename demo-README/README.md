@@ -5,9 +5,6 @@
   ## Description
   
   After answering some prompts in the terminal, a profesional looking README will be generated using your answers
-
-  ## Demo
-  ![Demo](./imgAssets/demo.gif)
   
   ## Table of Contents
   

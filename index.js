@@ -74,7 +74,7 @@ function init() {
     inquirer.prompt(questions)
     .then((data)=> {
         const markdown = getMarkdown(data);
-        writeToFile('README.md', markdown);
+        writeToFile('./Created-README/README.md', markdown);
         })
         .catch((error) => console.error(error));
 }

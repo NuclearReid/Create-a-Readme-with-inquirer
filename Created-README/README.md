@@ -4,12 +4,8 @@
   
   ## Description
   
-  Aftwer answering some prompts in the terminal, a profesional looking README will be generated using your answers
+  After answering some prompts in the terminal, a profesional looking README will be generated using your answers
 
-  [A video of the the program being used](https://drive.google.com/file/d/1EEzBhJsybTaDZDQpJGDJwkBJ-a_eBbaG/view)
-
-  ## Demo
-  ![Demo](./imgAssets/demo.gif)
   
   ## Table of Contents
   
@@ -59,3 +55,4 @@ More information about the License being used
   ## Questions
     
   If you have any questions, feel free to reach out to me at my [GitHub profile.](https://github.com/NuclearReid) or email me at Reid.backcnmt@gmail.com
+  
